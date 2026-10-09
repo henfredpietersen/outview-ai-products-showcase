@@ -7,7 +7,7 @@ Two commercial WordPress products I designed, built and sell through [Outview](h
 | **[AI Support Agent](docs/ai-support-agent.md)** (sold as *Outview AI Chatbot*) | Self-hosted RAG support chatbot with 7-provider LLM fallback, tool-calling skills, a flow builder, a team inbox and multi-channel messaging | ~23,000 lines of PHP across 158 files · 26 database tables · 29 REST routes |
 | **[SA SME CRM](docs/sa-sme-crm.md)** | B2B CRM for South African SMEs: pipelines, automations, AI deal insights, WhatsApp, local payment gateways, POPIA tooling | ~13,500 lines of PHP + a React 19 / TypeScript admin UI (~5,000 lines, 37 Vitest test files) · 13 tables · 25 REST routes |
 
-> **About this repo.** Both are paid products, so the full source isn't published. This repo documents what they do, how they're architected and the engineering decisions behind them. I'm happy to walk through the full source in an interview.
+> **About this repo.** Both are paid products, so the full source isn't published. This repo documents what they do, how they're architected and the engineering decisions behind them..
 
 **See it live:** the chat widget on [outview.co.za](https://outview.co.za) runs AI Support Agent.
 
